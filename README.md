@@ -1,0 +1,1 @@
+This is a coffee shop game with my own sprites and drawings made in JavaScript/CSS/HTML.
